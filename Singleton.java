@@ -1,3 +1,4 @@
+
 final class Singleton {
 	
 	private static Singleton s;
